@@ -1,0 +1,36 @@
+.filtrowanie {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 60%;
+    margin-right: 50px;
+    align-items: center;
+    position: fixed;
+    margin-top: 540px;
+    width: 250px;
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: #927976;
+    color: white;
+    border-radius: 17px;
+}
+    
+button {
+    width: 200px;
+}
+
+.filtrowanieForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.filtrowanie p {
+    height: 24px;
+}
+
+.filtrowanieForm button {
+    width: 125px;
+    /* background-color: aqua; */
+}

@@ -1,0 +1,7 @@
+[
+    {"id":1, "title":"Harry Potter i Kamień Filozoficzny", "author":"J.K.Rowling", "rate":8, "photo":"1.jpg"},
+    {"id":2, "title":"Harry Potter i Komnata Tajemnic", "author":"J.K.Rowling", "rate":7, "photo":"3.jpg"},
+    {"id":3, "title":"Harry Potter i Insygnia Śmierci", "author":"J.K.Rowling", "rate":10, "photo":"2.jpg"},
+    {"id":4, "title":"Harry Potter i Zakon Feniksa", "author":"J.K.Rowling", "rate":9, "photo":"4.jpg"},
+    {"id":5, "title":"Hobbit", "author":"J.R.R. Tolkien", "rate":10, "photo":"hobbit.jpg"}
+  ]

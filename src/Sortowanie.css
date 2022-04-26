@@ -1,0 +1,25 @@
+.sortowanie {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-right: 100px;
+    align-items: center;
+    position: fixed;
+    margin-top: 350px;
+    width: 250px;
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: #927976;
+    color: white;
+    border-radius: 17px;
+}
+
+button {
+    width: 200px;
+    border-radius: 17px;
+}
+
+.sortowanie p {
+    height: 19px;
+}

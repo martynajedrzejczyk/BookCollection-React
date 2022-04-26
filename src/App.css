@@ -1,0 +1,10 @@
+.ksiazki {
+  display: flex;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+width: 70%;
+}
+
+.container {
+  display: flex;
+}
